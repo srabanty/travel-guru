@@ -1,0 +1,45 @@
+h1{
+    color: white;
+}
+p{
+    color: grey;
+}
+.booking-body{
+    display: flex;
+}
+.form{
+    background-color: white;
+    padding: 20px;
+}
+input.bg-gray.form-control {
+    width: 100%;
+}
+.flex{
+    display: flex;
+}
+.mr-10{
+    margin-right: 10px;
+}
+.bg-gray{
+    background-color: lightgray!important;
+    opacity: .7!important;
+}
+.w-100{
+    width: 100px;
+    padding-left: 10px;
+    background-color: lightgray;
+    opacity: .7;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: black;
+    border-radius: 5px;
+}
+.w-full{
+    width: 100%;
+    color: black;
+    background-color: goldenrod;
+    font-weight: 500;
+    border: none;
+    margin-top: 10px;
+}

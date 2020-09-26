@@ -1,0 +1,72 @@
+.sign-in-form{
+    border: 1px solid black;
+    width: 450px;
+    margin: 0 auto;
+}
+.sign-in-form h5{
+    text-align: left;
+    padding-left: 55px;
+    padding-top: 40px;
+}
+.sign-in-form a{
+    color: red;
+    border-bottom: 1px solid red;
+}
+.sign-in-form p{
+    color: black;
+}
+.field-style{
+    width: 100%;
+}
+input[type="text"],input[type="password"] {
+    width: 330px;
+    border: none;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 15px;
+    color: black;
+    font-weight: 500;
+    margin-top: 30px;
+    
+}
+input[type="password"]{
+    margin-top: 30px;
+}
+input[type="submit"]{
+    background-color: darkorange;
+    width: 330px;
+    border: none;
+    margin-top: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: 500;
+    color: black;
+}
+.facebook,.google {
+    width: 320px;
+    border: 1px solid lightgray;
+    margin: auto;
+    padding: 5px;
+    border-radius: 20px;
+    margin-bottom: 0;
+}
+.facebook img,.google img{
+    height: 25px;
+    width: 25px;
+    margin-right: 80px;
+    text-align: left;
+}
+.facebook {
+    margin-bottom: 10px;
+    padding-left: 12px;
+}
+.facebook img{
+    margin-right: 65px;
+}    
+.facebook button,.google button{
+    border: none;
+    background-color: white;
+
+}
+.google{
+
+}

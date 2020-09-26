@@ -1,0 +1,21 @@
+h5{
+    color: black;
+}
+.hotelDetail{
+    display: flex;
+    margin-bottom: 40px;
+}
+.hotelDetail img{
+    width: 270px;
+    height: 200px;
+    margin-right: 30px;
+}
+.hotelDetail .star{
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+    margin-top: -5px;
+}
+.text-green{
+    color: red;
+}
